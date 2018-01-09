@@ -1,0 +1,3 @@
+IRI=../../iri-1.4.1.6/target/iri-1.4.1.6.jar
+
+java -jar ${IRI} --testnet --port 14700 --udp-receiver-port 14800 --neighbors "udp://localhost:24800"
