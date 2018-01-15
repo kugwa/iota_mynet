@@ -37,7 +37,7 @@ cd nodes/b
 ./iri
 ```
 
-### Run the Coordinator and Tell Node A to Create the First Milestone
+### Run the Coordinator and Broadcast a Milestone
 ```
 cd nodes
 ./coordinator localhost 14700
